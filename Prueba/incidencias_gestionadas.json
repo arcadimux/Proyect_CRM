@@ -1,0 +1,41 @@
+[
+  {
+    "id": "44e3c1f9-a282-4f05-b593-a9b816bf509a",
+    "aviso": "AAC",
+    "comunicante": "2005656",
+    "localizacion": "01.29.an01",
+    "codigo": "4106",
+    "descripcion": "Aviso de carteristas. Equipo de Seguridad revisa, sin localizar.",
+    "gestiones": "# .",
+    "equipo": "1.52",
+    "fecha_registro": "2026-06-26 09:34:19",
+    "fecha_creada": "2026-06-26 09:35:01",
+    "fecha_gestionada": "2026-06-26 09:37:34"
+  },
+  {
+    "id": "58f975e2-3e92-451e-92cf-e0c0988d6524",
+    "aviso": "AAC",
+    "comunicante": "2004545",
+    "localizacion": "02.16.ve00",
+    "codigo": "4115",
+    "descripcion": "Aviso de pedigüeño. Equipo de Seguridad revisa, sin localizar.",
+    "gestiones": "# .",
+    "equipo": "1.56",
+    "fecha_registro": "2026-06-26 09:33:20",
+    "fecha_creada": "2026-06-26 09:34:06",
+    "fecha_gestionada": "2026-06-26 10:30:07"
+  },
+  {
+    "id": "2336824e-f0b1-46d3-85ce-f37d698987b5",
+    "aviso": "",
+    "comunicante": "",
+    "localizacion": "05.16.ve01",
+    "codigo": "",
+    "descripcion": "",
+    "gestiones": "",
+    "equipo": "",
+    "fecha_registro": "2026-06-28 07:19:08",
+    "fecha_creada": "2026-06-28 07:19:32",
+    "fecha_gestionada": "2026-06-28 07:22:50"
+  }
+]

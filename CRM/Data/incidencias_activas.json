@@ -1,0 +1,102 @@
+[
+  {
+    "id": "5372549",
+    "aviso": "",
+    "comunicante": "",
+    "localizacion": "",
+    "codigo": "",
+    "descripcion": "",
+    "gestiones": "",
+    "equipo": "4.52",
+    "inicio_equipo": "15:00",
+    "llegada_equipo": "15:15",
+    "fecha_registro": "2026-07-13 09:32:25",
+    "fecha_creada": "2026-07-13 09:32:52"
+  },
+  {
+    "id": "2901186",
+    "aviso": "2",
+    "comunicante": "",
+    "localizacion": "",
+    "codigo": "",
+    "descripcion": "",
+    "gestiones": "",
+    "equipo": "5.20",
+    "inicio_equipo": "15:30",
+    "llegada_equipo": "15:00",
+    "fecha_registro": "2026-07-13 09:32:25",
+    "fecha_creada": "2026-07-13 09:33:09"
+  },
+  {
+    "id": "1902504",
+    "aviso": "3",
+    "comunicante": "",
+    "localizacion": "",
+    "codigo": "",
+    "descripcion": "",
+    "gestiones": "",
+    "equipo": "2.50",
+    "inicio_equipo": "11:00",
+    "llegada_equipo": "14:00",
+    "fecha_registro": "2026-07-13 12:59:55",
+    "fecha_creada": "2026-07-13 13:00:26",
+    "equipos": [
+      {
+        "equipo": "2.50",
+        "inicio": "11:00",
+        "llegada": "14:00"
+      }
+    ]
+  },
+  {
+    "id": "7813129",
+    "aviso": "",
+    "comunicante": "",
+    "localizacion": "",
+    "codigo": "",
+    "descripcion": "",
+    "gestiones": "",
+    "equipo": "",
+    "fecha_creada": "2026-07-14 08:01:25"
+  },
+  {
+    "id": "4601462",
+    "aviso": "sdfds",
+    "comunicante": "",
+    "localizacion": "",
+    "codigo": "",
+    "descripcion": "",
+    "gestiones": "",
+    "equipo": "",
+    "fecha_creada": "2026-07-14 08:50:14",
+    "equipos": [
+      {
+        "equipo": "asd",
+        "inicio": "asda",
+        "llegada": "dasd"
+      }
+    ]
+  },
+  {
+    "id": "6935429",
+    "aviso": "sdfdsf",
+    "comunicante": "",
+    "localizacion": "",
+    "codigo": "",
+    "descripcion": "",
+    "gestiones": "",
+    "fecha_creada": "2026-07-14 09:00:50",
+    "equipos": [
+      {
+        "equipo": "sdfs",
+        "inicio": "dsfdsf",
+        "llegada": "sdf"
+      },
+      {
+        "equipo": "xcv",
+        "inicio": "gfdsfsd",
+        "llegada": "dsfdsf"
+      }
+    ]
+  }
+]

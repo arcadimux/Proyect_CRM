@@ -1,0 +1,52 @@
+[
+  {
+    "id": "6546355",
+    "aviso": "111",
+    "comunicante": "",
+    "localizacion": "",
+    "codigo": "",
+    "descripcion": "",
+    "gestiones": "",
+    "equipo": "",
+    "fecha_registro": "2026-07-12 10:21:52",
+    "fecha_creada": "2026-07-12 10:21:55",
+    "fecha_gestionada": "2026-07-12 10:22:06"
+  },
+  {
+    "id": "9956714",
+    "aviso": "2222",
+    "comunicante": "",
+    "localizacion": "",
+    "codigo": "",
+    "descripcion": "",
+    "gestiones": "",
+    "equipo": "",
+    "fecha_registro": "2026-07-12 10:22:21",
+    "fecha_creada": "2026-07-12 10:22:25",
+    "fecha_gestionada": "2026-07-12 10:23:02"
+  },
+  {
+    "id": "6089983",
+    "aviso": "asdasdasd",
+    "comunicante": "",
+    "localizacion": "",
+    "codigo": "",
+    "descripcion": "",
+    "gestiones": "",
+    "equipo": "",
+    "fecha_creada": "2026-07-14 08:54:13",
+    "equipos": [
+      {
+        "equipo": "asd",
+        "inicio": "asdasd",
+        "llegada": "asd"
+      },
+      {
+        "equipo": "asdas",
+        "inicio": "asdas",
+        "llegada": "dasd"
+      }
+    ],
+    "fecha_gestionada": "2026-07-14 08:57:42"
+  }
+]

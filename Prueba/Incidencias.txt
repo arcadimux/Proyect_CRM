@@ -1,0 +1,44 @@
+Aviso: AAC
+Comunicante: 2004545
+Localización: 02.16.ve00
+Código de incidencia: 4115
+Descripción: Aviso de pedigüeño. Equipo de Seguridad revisa, sin localizar.
+Gestiones: # .
+Equipo: 1.56
+Fecha creada: 2026-06-26 09:34:06
+Fecha y hora de registro: 2026-06-26 09:33:20
+Fecha guardado: 2026-06-26 09:34:06
+________________________________
+Aviso: AAC
+Comunicante: 2005656
+Localización: 01.29.an01
+Código de incidencia: 4106
+Descripción: Aviso de carteristas. Equipo de Seguridad revisa, sin localizar.
+Gestiones: # .
+Equipo: 1.52
+Fecha creada: 2026-06-26 09:35:01
+Fecha y hora de registro: 2026-06-26 09:34:19
+Fecha guardado: 2026-06-26 09:35:01
+________________________________
+Aviso: 
+Comunicante: 
+Localización: 
+Código de incidencia: 
+Descripción: 
+Gestiones: 
+Equipo: 
+Fecha creada: 2026-06-28 07:19:11
+Fecha y hora de registro: 2026-06-28 07:19:08
+Fecha guardado: 2026-06-28 07:19:11
+________________________________
+Aviso: 
+Comunicante: 
+Localización: 05.16.ve01
+Código de incidencia: 
+Descripción: 
+Gestiones: 
+Equipo: 
+Fecha creada: 2026-06-28 07:19:32
+Fecha y hora de registro: 2026-06-28 07:19:08
+Fecha guardado: 2026-06-28 07:19:32
+________________________________
